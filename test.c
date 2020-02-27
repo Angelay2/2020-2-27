@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
+#include <malloc.h>
 
 // 常见的动态内存错误
 // 1.malloc申请成功之后 需要判断 判定成功才可以 申请失败返回为空
